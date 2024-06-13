@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer",
+    "organisation": "TechBeez",
+    "startDate": "April, 2022",
+    "endDate": "Present",
+    "location": "Banglore",
+    "experiences": [
+      "Worked on React",
+      "Worked with the Javascript"
+    ],
+    "imageSrc": "company/logo.jpg"
+  } 
+]

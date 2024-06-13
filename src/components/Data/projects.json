@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "University-Website",
+    "imageSrc": "https://colorlib.com/wp/wp-content/uploads/sites/2/kingster-education-website-template-1024x800.jpg",
+    "description": "This is a University website. This website will be completely responsive and we will add react smooth scroll, slider and working contact form on this website. You can receive the contact form enquirers on your email address.",
+    "demo": "https://siksha-university.netlify.app/",
+    "source": "https://github.com/sujit-khilar/University-Website"
+  },
+  {
+    "key": 2,
+    "title": "Ecommerce-Website",
+    "imageSrc": "https://repository-images.githubusercontent.com/456963513/82528385-a73f-488f-9003-513321283a6b",
+    "description": "Welcome to the Multi-Page eCommerce Website project! This repository contains the source code for a fully functional eCommerce website built using HTML, CSS, and JavaScript. The website provides a seamless shopping experience, showcasing products, allowing users to add items to their cart, and proceed to checkout.",
+    "demo": "https://khilar-ebazar.netlify.app/",
+    "source": "https://github.com/sujit-khilar/Ecommerce-website"
+  },
+  {
+    "key": 3,
+    "title": "Weather App",
+    "imageSrc": "https://static.themezy.com/system/resources/previews/000/000/128/original/steel-weather-free-responsive-website-template.jpg",
+    "description": "Using this website you can know the different cities weather condition and all details",
+    "demo": "https://khilar-weather-app.netlify.app/",
+    "source": "https://github.com/sujit-khilar/Weather-App-using-React"
+  },
+  {
+    "key": 4,
+    "title": "To Do App",
+    "imageSrc": "https://www.ibrahima-ndaw.com/static/201e329898d19594a3252bce3a6ed405/8c557/todo-image.png",
+    "description": "You can add, delete task whenever you want using this app.",
+    "demo": "https://github.com/sujit-khilar/To-Do-using-React",
+    "source": "https://github.com/sujit-khilar/To-Do-using-React"
+  },
+  {
+    "key": 5,
+    "title": "Ecommerce-Shoe-website",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9m7Fdl3C4N3SphSbF-wbHAK6MwBKTQAv7Q&s",
+    "description": "This is a Ecommerce website where we can buy shoe according to different shoe sizes and color and payment method is also there.",
+    "demo": "https://khilar-shoe-store.netlify.app/",
+    "source": "https://github.com/sujit-khilar/Ecommerce-Shoe-website"
+  }
+]
