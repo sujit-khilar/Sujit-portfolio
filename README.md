@@ -28,7 +28,7 @@ This is a personal portfolio website built using React. It showcases my projects
 ### Installation and Setup
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone [https://github.com/yourusername/portfolio-website.git](https://github.com/sujit-khilar/Sujit-portfolio)
     ```
 2. **Navigate to the project directory**:
     ```sh
