@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from '../pdf/Sujit-kumar-Khilar.pdf';
+import pdf from '../pdf/Sujit-kumar-Khilar-05.pdf';
 import hero from './Data/hero.json';
 import Typed from 'typed.js';
 import { useEffect } from 'react';
