@@ -24,8 +24,13 @@ a {
   padding: 1rem;
   font-size: 1.2rem;
   font-weight: bold;
-  color: #ffd500;
   font-family: cursive;
+  cursor: pointer;
+}
+
+.icon-color{
+  color: #ffd500;
+
 }
 
 .nav_items {
@@ -54,6 +59,10 @@ a {
   border-radius: 10px;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
+}
+
+.home .home_left span{
+  font-size: 2rem;
 }
 
 .home .home_right .img {

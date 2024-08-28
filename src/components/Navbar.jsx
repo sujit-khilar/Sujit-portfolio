@@ -5,7 +5,7 @@ const Navbar = () => {
       <>
          <nav className="container nav_bar" data-aos='fade-down'
          data-aos-duration='1000'>
-            <div className="nav_left nav_logo">Sujit Khilar</div>
+            <div className="nav_left nav_logo" ><a href="#home" className='icon-color'>Sujit Khilar</a></div>
             <div className="nav_right">
                <a href="#home" className="nav_items">Home</a>
                <a href="#experience" className="nav_items">Experience</a>

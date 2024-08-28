@@ -1,6 +1,14 @@
 [
   {
     "key": 1,
+    "title": "Khilar AI app",
+    "imageSrc": "https://images.spiceworks.com/wp-content/uploads/2023/10/12122423/mobile-app-development.jpg",
+    "description": "This is an AI-powered application built using React.js. The app leverages advanced artificial intelligence techniques to provide knowledge. It features a clean, user-friendly interface and efficient performance, making it a powerful tool for student and developer.",
+    "demo": "https://khilar-ai.netlify.app/",
+    "source": "https://github.com/sujit-khilar/Khilar-AI"
+  },
+  {
+    "key": 2,
     "title": "University-Website",
     "imageSrc": "https://colorlib.com/wp/wp-content/uploads/sites/2/kingster-education-website-template-1024x800.jpg",
     "description": "This is a University website. This website will be completely responsive and we will add react smooth scroll, slider and working contact form on this website. You can receive the contact form enquirers on your email address.",
